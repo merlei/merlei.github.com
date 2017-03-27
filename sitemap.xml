@@ -2,37 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://c12blog.com/2016/12/30/AliYun_ECS_Logical_Volumes/</loc>
+    <loc>http://huchunlin.iok.la/2017/01/13/test_post/</loc>
     
-    <lastmod>2017-01-04T07:45:35.157Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://c12blog.com/about/index.html</loc>
-    
-    <lastmod>2017-01-04T07:43:31.917Z</lastmod>
+    <lastmod>2017-03-27T06:58:20.524Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://c12blog.com/2017/01/03/SVN_migrate_to_Git/</loc>
+    <loc>http://huchunlin.iok.la/categories/index.html</loc>
     
-    <lastmod>2017-01-04T07:18:33.529Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://c12blog.com/tags/index.html</loc>
-    
-    <lastmod>2017-01-03T09:31:10.167Z</lastmod>
+    <lastmod>2017-03-27T06:33:28.924Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://c12blog.com/categories/index.html</loc>
+    <loc>http://huchunlin.iok.la/tags/index.html</loc>
     
-    <lastmod>2017-01-03T09:18:12.391Z</lastmod>
+    <lastmod>2017-03-27T06:33:28.916Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://huchunlin.iok.la/about/index.html</loc>
+    
+    <lastmod>2017-03-27T06:33:28.892Z</lastmod>
     
   </url>
   
